@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on 不会玩梗的少年</title>
     <link>https://ClearYu.github.io/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on 不会玩梗的少年</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Nov 2019 20:31:50 +0800</lastBuildDate>
@@ -12,12 +12,14 @@
     
     
     <item>
-      <title>Blog</title>
+      <title>Hello World</title>
       <link>https://ClearYu.github.io/post/blog/</link>
       <pubDate>Mon, 25 Nov 2019 20:31:50 +0800</pubDate>
       
       <guid>https://ClearYu.github.io/post/blog/</guid>
-      <description></description>
+      <description> 欢迎大家来到我的博客  我将在这里做以下事情
+  开发经验总结 生活经验总结 学科归档   未来上线功能
+  RSS订阅功能 打赏功能  </description>
     </item>
     
   </channel>
